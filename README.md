@@ -15,4 +15,4 @@ C#, .NET, ASP.NET MVC, Entity Framework Core, SQL Server, HTML, CSS, JavaScript
 - Email: contacto.brunosencion@gmail.com
 
 ---
-> Este README es el “portada” de mi perfil: los repos destacados están más abajo (Pinned).
+> Este README es el “portada” de mi perfil: los repos destacados están más abajo.
